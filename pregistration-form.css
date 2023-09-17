@@ -1,0 +1,12 @@
+/* selector {
+    property: value;
+}
+*/
+
+*{
+    color: lightblue;
+}
+
+div > table{
+    background-color: silver;
+}
